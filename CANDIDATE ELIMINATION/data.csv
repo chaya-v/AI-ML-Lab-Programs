@@ -1,0 +1,8 @@
+Color,Toughness,Fungus,Appearance,Poisonous
+green,hard,no,wrinkled,Yes
+green,hard,yes,smooth,no
+brown,soft,no,wrinkled,no
+orange,hard,no,wrinkled,Yes
+green,soft,yes,smooth,Yes
+green,hard,yes,wrinkled,Yes
+orange,hard,no,wrinkled,Yes
